@@ -128,8 +128,8 @@ def power(request):
 
 
 ## SERVER SIDE PROCESSING:
+![Screenshot 2024-12-15 205256](https://github.com/user-attachments/assets/961ebe70-28ce-41e9-8cc9-a7349e4120cb)
 
-![alt text](<Screenshot 2024-12-13 222510.png>)
 
 ## HOMEPAGE:
 ![alt text](<Screenshot 2024-12-13 222104.png>)
