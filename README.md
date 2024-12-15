@@ -128,11 +128,12 @@ def power(request):
 
 
 ## SERVER SIDE PROCESSING:
-![Screenshot 2024-12-15 205256](https://github.com/user-attachments/assets/961ebe70-28ce-41e9-8cc9-a7349e4120cb)
+![Screenshot 2024-12-13 222510](https://github.com/user-attachments/assets/b37e906e-c4de-4fd6-a83c-3e2004373101)
+
 
 
 ## HOMEPAGE:
-![alt text](<Screenshot 2024-12-13 222104.png>)
+![Screenshot 2024-12-15 205256](https://github.com/user-attachments/assets/961ebe70-28ce-41e9-8cc9-a7349e4120cb)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
